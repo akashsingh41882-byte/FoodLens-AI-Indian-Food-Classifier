@@ -393,7 +393,7 @@ B.Sc. Data Science Student | Aspiring AI/ML Engineer
 
 - **GitHub:** [@vaibhav07772](https://github.com/vaibhav07772)
 - **Project Repository:** [FoodLens AI](https://github.com/vaibhav07772/FoodLens-AI-Indian-Food-Classifier)
-- **LinkedIn:** [Akash Singh](https://www.linkedin.com/in/vaibhav-singh-9a9b9434a)
+- **LinkedIn:** [Akash Singh](https://www.linkedin.com/in/akash-singh-790192371)
 
 ---
 
