@@ -387,7 +387,7 @@ I would improve the dataset, apply data augmentation, evaluate the model using a
 
 ## 👨‍💻 Author
 
-**Vaibhav Singh**
+**Akash Singh**
 
 B.Sc. Data Science Student | Aspiring AI/ML Engineer
 
