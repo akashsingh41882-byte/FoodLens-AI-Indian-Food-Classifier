@@ -214,7 +214,7 @@ Follow these steps to run FoodLens locally.
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/vaibhav07772/FoodLens-AI-Indian-Food-Classifier.git
+git clone https://github.com/akashsingh41882-byte/FoodLens-AI-Indian-Food-Classifier.git
 
 cd FoodLens-AI-Indian-Food-Classifier
 ```
@@ -391,9 +391,9 @@ I would improve the dataset, apply data augmentation, evaluate the model using a
 
 B.Sc. Data Science Student | Aspiring AI/ML Engineer
 
-- **GitHub:** [@vaibhav07772](https://github.com/vaibhav07772)
-- **Project Repository:** [FoodLens AI](https://github.com/vaibhav07772/FoodLens-AI-Indian-Food-Classifier)
-- **LinkedIn:** [Akash Singh](https://www.linkedin.com/in/akash-singh-790192371)
+- **GitHub:** [Akash Sanjay Singh](https://github.com/akashsingh41882-byte)
+- **Project Repository:** [FoodLens AI](https://github.com/akashsingh41882-byte/FoodLens-AI-Indian-Food-Classifier)
+- **LinkedIn:** [Akash Sanjay Singh](https://www.linkedin.com/in/akash-singh-790192371)
 
 ---
 
